@@ -6,7 +6,7 @@ module Travis
       class Scala < Jvm
 
         DEFAULTS = {
-          scala: '2.12.2',
+          scala: '2.12.7',
           jdk:   'default'
         }
 
